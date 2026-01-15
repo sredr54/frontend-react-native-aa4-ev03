@@ -1,0 +1,19 @@
+
+---
+
+## 🔄 Relación con el ciclo de desarrollo de software
+
+Este módulo se desarrolló teniendo en cuenta los siguientes artefactos:
+- Diagramas de casos de uso
+- Historias de usuario
+- Diagramas de clases
+- Prototipos de interfaz
+- Plan de trabajo técnico
+
+---
+
+## ▶️ Instalación y ejecución
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/USUARIO/frontend-react-native-aa4-ev03.git
